@@ -1,3 +1,6 @@
+![Screenshot 2023-03-09 234518](https://user-images.githubusercontent.com/70307019/224118501-3b679a6e-60d5-43e4-a3ce-876cd67c9529.png)
+
+
 The Iris flower data set is a well-known benchmark in the field of machine learning, often described as the "hello world" of the discipline. This data set contains information about the physical attributes of different species of Iris flowers, and has been used extensively for prediction tasks. In this article, I will discuss my own predictions using this data set and the K-Nearest Neighbor (KNN) algorithm.
 
 To train and test my model, I allocated 20% of the data for testing purposes and used the remaining data for training. To handle the data, I utilized the powerful Pandas library to insert the dataset into my program. Once the model was trained, I used the joblib library to save it for future use.
