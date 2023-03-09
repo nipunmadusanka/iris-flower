@@ -1,5 +1,3 @@
-![Screenshot 2023-03-09 234518](https://user-images.githubusercontent.com/70307019/224118501-3b679a6e-60d5-43e4-a3ce-876cd67c9529.png)
-
 
 The Iris flower data set is a well-known benchmark in the field of machine learning, often described as the "hello world" of the discipline. This data set contains information about the physical attributes of different species of Iris flowers, and has been used extensively for prediction tasks. In this article, I will discuss my own predictions using this data set and the K-Nearest Neighbor (KNN) algorithm.
 
@@ -10,3 +8,6 @@ My model achieved an impressive accuracy of 0.9666666666666667, demonstrating th
 British statistician and biologist Ronald Fisher first identified this data set in his 1936 paper. Fisher used the data set to distinguish between different species of Iris flowers, based on their physical attributes. These attributes include sepal length, sepal width, petal length, petal width, and the class of the flower (Iris Setosa, Iris Versicolour, and Iris Virginica).
 
 Overall, the Iris data set remains a valuable tool for researchers and enthusiasts in the field of machine learning, and its rich history adds to its allure.
+
+![Screenshot 2023-03-09 234518](https://user-images.githubusercontent.com/70307019/224118501-3b679a6e-60d5-43e4-a3ce-876cd67c9529.png)
+
